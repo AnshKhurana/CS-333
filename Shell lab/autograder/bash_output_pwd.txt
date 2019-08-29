@@ -1,0 +1,2 @@
+/home/ansh/Desktop/CS-333/Shell lab/autograder
+/home/ansh/Desktop/CS-333/Shell lab

@@ -1,0 +1,4 @@
+./never_ending1 &
+./never_ending2
+sleep 0.2
+exit

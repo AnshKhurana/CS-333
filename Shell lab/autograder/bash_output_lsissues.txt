@@ -1,0 +1,19 @@
+-rw-r--r-- 1 ansh ansh   509 Aug 29 01:10 bash_output_ls.txt
+-rwxrwxrwx 1 ansh ansh    34 Aug 29 01:10 bash_test_part_a.txt
+-rwxrwxr-x 1 ansh ansh   129 Aug  6 10:15 master.sh
+-rw-rw-r-- 1 ansh ansh  7162 Aug 29 01:05 my_shell.c
+-rw-r--r-- 1 ansh ansh   534 Aug 29 01:10 part_a_student_output_ls.txt
+-rw-rw-r-- 1 ansh ansh   442 Aug 29 01:10 readme.txt
+-rwxrwxr-x 1 ansh ansh  7180 Mar  4 16:29 script-a.sh
+-rwxrwxr-x 1 ansh ansh  4030 Aug  7 12:36 script-b.sh
+-rwxrwxr-x 1 ansh ansh  5525 Aug  6 10:17 script-cd.sh
+-rwxr-xr-x 1 ansh ansh 13232 Aug 29 01:10 sshell
+master.sh
+my_shell.c
+readme.txt
+script-a.sh
+script-b.sh
+script-cd.sh
+sshell
+script-a.sh		      script-b.sh
+script-cd.sh		      sshell
