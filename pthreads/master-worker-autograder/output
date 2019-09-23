@@ -1,0 +1,21 @@
+Produced 0
+Produced 1
+Produced 2
+Produced 3
+Consumed 3 by worker 0
+Produced 4
+Consumed 4 by worker 2
+Consumed 2 by worker 0
+Consumed 1 by worker 0
+Consumed 0 by worker 0
+Produced 5
+Produced 6
+Consumed 6 by worker 0
+Consumed 5 by worker 2
+Produced 7
+Produced 8
+Produced 9
+Consumed 9 by worker 1
+Consumed 8 by worker 2
+Consumed 7 by worker 0
+master joined

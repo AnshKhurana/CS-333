@@ -11,6 +11,14 @@ int item_to_produce;
 int total_items, max_buf_size, num_workers;
 // declare any global data structures, variables, etc that are required
 // e.g buffer to store items, pthread variables, etc
+int ind = 0;
+int buffer[1000000];
+
+
+pthread_mutex_t buffer_mutex     = PTHREAD_MUTEX_INITIALIZER;
+pthread_cond_t  full_cond  = PTHREAD_COND_INITIALIZER;
+pthread_cond_t  empty_cond  = PTHREAD_COND_INITIALIZER;
+
 
 void print_produced(int num) {
 
@@ -32,20 +40,70 @@ void print_consumed(int num, int worker) {
 void *generate_requests_loop(void *data)
 {
   int thread_id = *((int *)data);
-
   while(1)
     {
-      if(item_to_produce >= total_items)
-	break;
       
-      print_produced(item_to_produce);
-      item_to_produce++;
+    pthread_mutex_lock(&buffer_mutex);
+    if(item_to_produce >= total_items)
+    {
+        pthread_cond_broadcast(&empty_cond);    
+        pthread_mutex_unlock(&buffer_mutex);
+        break;
+    }
+    while (ind > max_buf_size - 1)
+    {
+        pthread_cond_wait(&full_cond, &buffer_mutex);
+    }
+
+    buffer[ind] = item_to_produce;
+    ind = ind + 1;
+    print_produced(item_to_produce);
+    item_to_produce++;
+    pthread_cond_signal(&empty_cond);
+    pthread_mutex_unlock(&buffer_mutex);      
     }
   return 0;
 }
 
 //write function to be run by worker threads
 //ensure that the workers call the function print_consumed when they consume an item
+
+void *consume_from_buffer(void *data)
+{
+    int thread_id = *((int *)data);
+    while(1)
+    {
+    
+    
+    pthread_mutex_lock(&buffer_mutex);
+    while (ind < 1 && item_to_produce < total_items) pthread_cond_wait(&empty_cond, &buffer_mutex);
+    
+    if(ind < 1)
+    {
+        if(item_to_produce >= total_items)
+        {
+        // pthread_cond_signal(&full_cond);
+        pthread_mutex_unlock(&buffer_mutex);
+        break;
+        }
+        
+    }
+   
+   
+    int num = buffer[ind-1];
+    ind = ind - 1;
+
+ 
+    // if (ind == max_buf_size-1)
+    pthread_cond_signal(&full_cond);
+
+    print_consumed(num, thread_id);
+    pthread_mutex_unlock(&buffer_mutex);
+    }
+
+
+    return 0;
+}
 
 int main(int argc, char *argv[])
 {
@@ -65,17 +123,34 @@ int main(int argc, char *argv[])
   }
   
   // Initlization code for any data structures, variables, etc
-
+  pthread_t worker_threads[num_workers];
+  int worker_thread_id = 0;
 
   //create master producer thread
   pthread_create(&master_thread, NULL, generate_requests_loop, (void *)&master_thread_id);
 
   //create worker consumer threads
-  
+  int ids[num_workers];
+
+  for (int i = 0; i < num_workers; ++i)
+  {
+      ids[i] = i;
+  }
+  for (int i = 0; i < num_workers; ++i)
+  {
+    pthread_create(&worker_threads[i], NULL, consume_from_buffer, (void *)&ids[i]);
+    
+  }
 
   //wait for all threads to complete
   pthread_join(master_thread, NULL);
   printf("master joined\n");
+
+  for (int i = 0; i < num_workers; ++i)
+      {
+      pthread_join(worker_threads[i], NULL);
+      // printf("worker thread %d joined\n", ids[i]);
+  }
 
   //deallocate and free up any memory you allocated
   

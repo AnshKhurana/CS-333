@@ -1,0 +1,8 @@
+Writer: 0 has acquired the lock
+Writer: 0 has released the lock
+Writer: 1 has acquired the lock
+Writer: 1 has released the lock
+Writer: 2 has acquired the lock
+Writer: 2 has released the lock
+Writer: 3 has acquired the lock
+Writer: 3 has released the lock
