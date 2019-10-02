@@ -2,202 +2,2000 @@ Produced 0
 Produced 1
 Produced 2
 Produced 3
+Consumed 3 by worker 1
+Consumed 2 by worker 1
+Consumed 1 by worker 1
+Consumed 0 by worker 1
 Produced 4
-Consumed 4 by worker 0
 Produced 5
-Consumed 5 by worker 0
-Consumed 3 by worker 2
-Consumed 2 by worker 2
-Consumed 1 by worker 2
-Consumed 0 by worker 2
 Produced 6
 Produced 7
-Produced 8
-Produced 9
-Consumed 9 by worker 1
-Consumed 8 by worker 1
 Consumed 7 by worker 1
 Consumed 6 by worker 1
+Consumed 5 by worker 1
+Consumed 4 by worker 1
+Produced 8
+Produced 9
 Produced 10
-Consumed 10 by worker 1
 Produced 11
+Consumed 11 by worker 1
+Consumed 10 by worker 1
+Consumed 9 by worker 1
+Consumed 8 by worker 1
 Produced 12
 Produced 13
-Consumed 13 by worker 1
 Produced 14
-Consumed 14 by worker 2
 Produced 15
-Consumed 15 by worker 3
-Consumed 12 by worker 3
-Consumed 11 by worker 3
+Consumed 15 by worker 0
+Consumed 14 by worker 0
+Consumed 13 by worker 0
+Consumed 12 by worker 0
 Produced 16
-Consumed 16 by worker 3
+Consumed 16 by worker 0
 Produced 17
-Consumed 17 by worker 3
 Produced 18
-Consumed 18 by worker 1
 Produced 19
 Produced 20
-Consumed 20 by worker 0
-Produced 21
-Consumed 21 by worker 0
+Consumed 20 by worker 1
 Consumed 19 by worker 1
+Consumed 18 by worker 1
+Produced 21
+Consumed 21 by worker 1
+Consumed 17 by worker 1
 Produced 22
+Consumed 22 by worker 1
 Produced 23
 Consumed 23 by worker 1
 Produced 24
-Consumed 24 by worker 3
+Consumed 24 by worker 0
 Produced 25
 Produced 26
 Produced 27
-Consumed 27 by worker 3
 Produced 28
-Consumed 28 by worker 3
-Consumed 26 by worker 3
-Consumed 25 by worker 3
-Consumed 22 by worker 3
+Consumed 28 by worker 1
+Consumed 27 by worker 1
+Consumed 26 by worker 1
+Consumed 25 by worker 1
 Produced 29
+Consumed 29 by worker 1
 Produced 30
 Produced 31
-Consumed 31 by worker 3
+Consumed 31 by worker 1
+Consumed 30 by worker 1
 Produced 32
+Consumed 32 by worker 1
 Produced 33
+Consumed 33 by worker 1
 Produced 34
-Consumed 34 by worker 3
-Consumed 33 by worker 0
+Consumed 34 by worker 1
 Produced 35
-Consumed 35 by worker 3
+Consumed 35 by worker 1
 Produced 36
-Consumed 36 by worker 1
-Consumed 32 by worker 2
 Produced 37
-Produced 38
-Produced 39
-Consumed 39 by worker 2
-Consumed 38 by worker 1
-Produced 40
-Consumed 40 by worker 3
-Produced 41
-Consumed 41 by worker 1
 Consumed 37 by worker 1
-Consumed 30 by worker 2
-Consumed 29 by worker 1
+Consumed 36 by worker 1
+Produced 38
+Consumed 38 by worker 1
+Produced 39
+Produced 40
+Produced 41
 Produced 42
-Consumed 42 by worker 0
+Consumed 42 by worker 1
+Consumed 41 by worker 1
+Consumed 40 by worker 1
+Consumed 39 by worker 1
 Produced 43
+Consumed 43 by worker 1
 Produced 44
-Produced 45
-Produced 46
-Consumed 46 by worker 1
-Consumed 45 by worker 3
 Consumed 44 by worker 1
-Consumed 43 by worker 3
+Produced 45
+Consumed 45 by worker 1
+Produced 46
 Produced 47
-Consumed 47 by worker 1
 Produced 48
-Consumed 48 by worker 3
+Consumed 48 by worker 1
+Consumed 47 by worker 1
+Consumed 46 by worker 1
 Produced 49
+Consumed 49 by worker 1
 Produced 50
+Consumed 50 by worker 1
 Produced 51
+Consumed 51 by worker 1
 Produced 52
+Consumed 52 by worker 1
 Produced 53
 Consumed 53 by worker 1
 Produced 54
 Consumed 54 by worker 1
-Consumed 52 by worker 1
-Consumed 51 by worker 1
-Consumed 50 by worker 1
-Consumed 49 by worker 1
 Produced 55
-Consumed 55 by worker 0
+Consumed 55 by worker 1
 Produced 56
-Consumed 56 by worker 3
+Consumed 56 by worker 1
 Produced 57
 Produced 58
 Produced 59
-Consumed 59 by worker 0
-Produced 60
-Produced 61
-Produced 62
-Consumed 62 by worker 1
-Consumed 61 by worker 2
-Produced 63
-Consumed 63 by worker 3
-Consumed 60 by worker 3
-Produced 64
-Consumed 64 by worker 3
-Produced 65
-Produced 66
-Consumed 66 by worker 1
-Consumed 65 by worker 1
-Produced 67
-Consumed 67 by worker 1
-Produced 68
-Consumed 68 by worker 1
-Consumed 58 by worker 0
+Consumed 59 by worker 1
+Consumed 58 by worker 1
 Consumed 57 by worker 1
+Produced 60
+Consumed 60 by worker 1
+Produced 61
+Consumed 61 by worker 1
+Produced 62
+Produced 63
+Produced 64
+Produced 65
+Consumed 65 by worker 1
+Consumed 64 by worker 1
+Consumed 63 by worker 1
+Consumed 62 by worker 1
+Produced 66
+Produced 67
+Produced 68
 Produced 69
-Consumed 69 by worker 2
+Consumed 69 by worker 1
+Consumed 68 by worker 1
+Consumed 67 by worker 1
 Produced 70
-Consumed 70 by worker 3
+Consumed 70 by worker 0
 Produced 71
-Consumed 71 by worker 2
 Produced 72
-Consumed 72 by worker 3
 Produced 73
-Consumed 73 by worker 3
+Consumed 73 by worker 1
+Consumed 72 by worker 1
+Consumed 71 by worker 1
+Consumed 66 by worker 1
 Produced 74
+Consumed 74 by worker 1
 Produced 75
+Consumed 75 by worker 1
 Produced 76
 Produced 77
+Consumed 77 by worker 1
+Consumed 76 by worker 1
 Produced 78
-Consumed 78 by worker 3
-Consumed 77 by worker 3
-Consumed 76 by worker 3
-Consumed 75 by worker 1
-Consumed 74 by worker 0
+Consumed 78 by worker 1
 Produced 79
-Consumed 79 by worker 3
+Consumed 79 by worker 1
 Produced 80
-Consumed 80 by worker 2
+Consumed 80 by worker 1
 Produced 81
 Produced 82
 Produced 83
 Produced 84
-Consumed 84 by worker 2
+Consumed 84 by worker 1
+Consumed 83 by worker 1
 Produced 85
 Consumed 85 by worker 1
-Consumed 83 by worker 0
 Produced 86
+Consumed 86 by worker 1
 Produced 87
+Consumed 87 by worker 1
+Consumed 82 by worker 1
+Consumed 81 by worker 1
 Produced 88
 Consumed 88 by worker 1
-Consumed 87 by worker 3
 Produced 89
+Consumed 89 by worker 1
 Produced 90
-Consumed 90 by worker 3
-Consumed 89 by worker 3
-Consumed 86 by worker 1
+Consumed 90 by worker 1
 Produced 91
-Consumed 91 by worker 0
 Produced 92
-Consumed 92 by worker 1
 Produced 93
 Produced 94
 Consumed 94 by worker 1
-Consumed 93 by worker 0
-Consumed 82 by worker 1
-Consumed 81 by worker 0
+Consumed 93 by worker 1
+Consumed 92 by worker 1
+Consumed 91 by worker 1
 Produced 95
-Consumed 95 by worker 3
+Consumed 95 by worker 1
 Produced 96
+Consumed 96 by worker 1
 Produced 97
 Produced 98
+Consumed 98 by worker 1
+Consumed 97 by worker 1
 Produced 99
-Produced 100
-Consumed 100 by worker 2
 Consumed 99 by worker 1
-Consumed 98 by worker 0
-Consumed 97 by worker 0
-Consumed 96 by worker 0
+Produced 100
+Consumed 100 by worker 1
+Produced 101
+Consumed 101 by worker 1
+Produced 102
+Consumed 102 by worker 1
+Produced 103
+Consumed 103 by worker 1
+Produced 104
+Consumed 104 by worker 1
+Produced 105
+Consumed 105 by worker 1
+Produced 106
+Produced 107
+Consumed 107 by worker 1
+Consumed 106 by worker 1
+Produced 108
+Consumed 108 by worker 1
+Produced 109
+Consumed 109 by worker 1
+Produced 110
+Consumed 110 by worker 1
+Produced 111
+Produced 112
+Produced 113
+Consumed 113 by worker 1
+Consumed 112 by worker 1
+Consumed 111 by worker 1
+Produced 114
+Produced 115
+Produced 116
+Produced 117
+Consumed 117 by worker 1
+Consumed 116 by worker 1
+Consumed 115 by worker 1
+Consumed 114 by worker 1
+Produced 118
+Produced 119
+Consumed 119 by worker 1
+Consumed 118 by worker 1
+Produced 120
+Consumed 120 by worker 1
+Produced 121
+Consumed 121 by worker 1
+Produced 122
+Consumed 122 by worker 1
+Produced 123
+Consumed 123 by worker 1
+Produced 124
+Consumed 124 by worker 1
+Produced 125
+Produced 126
+Consumed 126 by worker 1
+Consumed 125 by worker 1
+Produced 127
+Consumed 127 by worker 1
+Produced 128
+Consumed 128 by worker 1
+Produced 129
+Consumed 129 by worker 1
+Produced 130
+Consumed 130 by worker 1
+Produced 131
+Consumed 131 by worker 1
+Produced 132
+Produced 133
+Consumed 133 by worker 1
+Consumed 132 by worker 1
+Produced 134
+Consumed 134 by worker 1
+Produced 135
+Consumed 135 by worker 1
+Produced 136
+Consumed 136 by worker 1
+Produced 137
+Consumed 137 by worker 1
+Produced 138
+Consumed 138 by worker 1
+Produced 139
+Produced 140
+Produced 141
+Produced 142
+Consumed 142 by worker 1
+Consumed 141 by worker 1
+Consumed 140 by worker 1
+Consumed 139 by worker 1
+Produced 143
+Consumed 143 by worker 0
+Produced 144
+Consumed 144 by worker 0
+Produced 145
+Consumed 145 by worker 0
+Produced 146
+Consumed 146 by worker 0
+Produced 147
+Consumed 147 by worker 0
+Produced 148
+Consumed 148 by worker 0
+Produced 149
+Consumed 149 by worker 1
+Produced 150
+Consumed 150 by worker 1
+Produced 151
+Consumed 151 by worker 1
+Produced 152
+Produced 153
+Consumed 153 by worker 1
+Consumed 152 by worker 1
+Produced 154
+Consumed 154 by worker 1
+Produced 155
+Consumed 155 by worker 1
+Produced 156
+Produced 157
+Consumed 157 by worker 1
+Consumed 156 by worker 1
+Produced 158
+Consumed 158 by worker 1
+Produced 159
+Produced 160
+Produced 161
+Produced 162
+Consumed 162 by worker 1
+Consumed 161 by worker 1
+Consumed 160 by worker 1
+Consumed 159 by worker 1
+Produced 163
+Consumed 163 by worker 1
+Produced 164
+Consumed 164 by worker 1
+Produced 165
+Consumed 165 by worker 1
+Produced 166
+Produced 167
+Produced 168
+Consumed 168 by worker 1
+Consumed 167 by worker 1
+Consumed 166 by worker 1
+Produced 169
+Consumed 169 by worker 1
+Produced 170
+Consumed 170 by worker 1
+Produced 171
+Consumed 171 by worker 1
+Produced 172
+Consumed 172 by worker 1
+Produced 173
+Produced 174
+Consumed 174 by worker 1
+Consumed 173 by worker 1
+Produced 175
+Consumed 175 by worker 1
+Produced 176
+Produced 177
+Produced 178
+Consumed 178 by worker 1
+Consumed 177 by worker 1
+Consumed 176 by worker 1
+Produced 179
+Consumed 179 by worker 1
+Produced 180
+Consumed 180 by worker 1
+Produced 181
+Consumed 181 by worker 1
+Produced 182
+Consumed 182 by worker 1
+Produced 183
+Consumed 183 by worker 1
+Produced 184
+Produced 185
+Produced 186
+Produced 187
+Consumed 187 by worker 1
+Consumed 186 by worker 1
+Consumed 185 by worker 1
+Consumed 184 by worker 1
+Produced 188
+Consumed 188 by worker 1
+Produced 189
+Consumed 189 by worker 1
+Produced 190
+Produced 191
+Produced 192
+Produced 193
+Consumed 193 by worker 1
+Consumed 192 by worker 1
+Produced 194
+Consumed 194 by worker 1
+Consumed 191 by worker 1
+Consumed 190 by worker 1
+Produced 195
+Consumed 195 by worker 1
+Produced 196
+Consumed 196 by worker 1
+Produced 197
+Consumed 197 by worker 1
+Produced 198
+Produced 199
+Consumed 199 by worker 1
+Produced 200
+Produced 201
+Produced 202
+Consumed 202 by worker 1
+Consumed 201 by worker 1
+Consumed 200 by worker 1
+Consumed 198 by worker 1
+Produced 203
+Consumed 203 by worker 0
+Produced 204
+Produced 205
+Produced 206
+Produced 207
+Consumed 207 by worker 1
+Consumed 206 by worker 1
+Consumed 205 by worker 1
+Consumed 204 by worker 1
+Produced 208
+Produced 209
+Consumed 209 by worker 1
+Consumed 208 by worker 1
+Produced 210
+Consumed 210 by worker 1
+Produced 211
+Consumed 211 by worker 1
+Produced 212
+Consumed 212 by worker 1
+Produced 213
+Consumed 213 by worker 1
+Produced 214
+Consumed 214 by worker 1
+Produced 215
+Consumed 215 by worker 1
+Produced 216
+Produced 217
+Consumed 217 by worker 1
+Consumed 216 by worker 1
+Produced 218
+Consumed 218 by worker 1
+Produced 219
+Consumed 219 by worker 1
+Produced 220
+Produced 221
+Produced 222
+Produced 223
+Consumed 223 by worker 1
+Consumed 222 by worker 1
+Consumed 221 by worker 1
+Consumed 220 by worker 1
+Produced 224
+Produced 225
+Consumed 225 by worker 0
+Produced 226
+Produced 227
+Produced 228
+Consumed 228 by worker 1
+Consumed 227 by worker 1
+Consumed 226 by worker 1
+Consumed 224 by worker 1
+Produced 229
+Consumed 229 by worker 1
+Produced 230
+Consumed 230 by worker 1
+Produced 231
+Consumed 231 by worker 1
+Produced 232
+Consumed 232 by worker 1
+Produced 233
+Produced 234
+Produced 235
+Consumed 235 by worker 1
+Consumed 234 by worker 1
+Consumed 233 by worker 1
+Produced 236
+Consumed 236 by worker 1
+Produced 237
+Produced 238
+Produced 239
+Produced 240
+Consumed 240 by worker 1
+Consumed 239 by worker 1
+Consumed 238 by worker 1
+Consumed 237 by worker 1
+Produced 241
+Consumed 241 by worker 1
+Produced 242
+Consumed 242 by worker 1
+Produced 243
+Consumed 243 by worker 1
+Produced 244
+Consumed 244 by worker 1
+Produced 245
+Consumed 245 by worker 1
+Produced 246
+Consumed 246 by worker 1
+Produced 247
+Consumed 247 by worker 1
+Produced 248
+Consumed 248 by worker 1
+Produced 249
+Consumed 249 by worker 1
+Produced 250
+Consumed 250 by worker 1
+Produced 251
+Consumed 251 by worker 1
+Produced 252
+Consumed 252 by worker 1
+Produced 253
+Consumed 253 by worker 1
+Produced 254
+Produced 255
+Produced 256
+Produced 257
+Consumed 257 by worker 1
+Consumed 256 by worker 1
+Consumed 255 by worker 1
+Produced 258
+Produced 259
+Produced 260
+Consumed 260 by worker 1
+Consumed 259 by worker 1
+Consumed 258 by worker 1
+Consumed 254 by worker 1
+Produced 261
+Consumed 261 by worker 1
+Produced 262
+Produced 263
+Produced 264
+Consumed 264 by worker 1
+Consumed 263 by worker 1
+Consumed 262 by worker 1
+Produced 265
+Consumed 265 by worker 1
+Produced 266
+Consumed 266 by worker 1
+Produced 267
+Consumed 267 by worker 1
+Produced 268
+Consumed 268 by worker 1
+Produced 269
+Consumed 269 by worker 1
+Produced 270
+Consumed 270 by worker 1
+Produced 271
+Produced 272
+Produced 273
+Produced 274
+Consumed 274 by worker 1
+Consumed 273 by worker 1
+Consumed 272 by worker 1
+Consumed 271 by worker 1
+Produced 275
+Produced 276
+Produced 277
+Consumed 277 by worker 1
+Consumed 276 by worker 1
+Consumed 275 by worker 1
+Produced 278
+Produced 279
+Produced 280
+Produced 281
+Consumed 281 by worker 1
+Consumed 280 by worker 1
+Consumed 279 by worker 1
+Consumed 278 by worker 1
+Produced 282
+Consumed 282 by worker 1
+Produced 283
+Consumed 283 by worker 1
+Produced 284
+Consumed 284 by worker 1
+Produced 285
+Consumed 285 by worker 1
+Produced 286
+Consumed 286 by worker 1
+Produced 287
+Consumed 287 by worker 1
+Produced 288
+Consumed 288 by worker 1
+Produced 289
+Consumed 289 by worker 1
+Produced 290
+Consumed 290 by worker 1
+Produced 291
+Consumed 291 by worker 1
+Produced 292
+Consumed 292 by worker 1
+Produced 293
+Consumed 293 by worker 1
+Produced 294
+Consumed 294 by worker 1
+Produced 295
+Consumed 295 by worker 1
+Produced 296
+Consumed 296 by worker 1
+Produced 297
+Consumed 297 by worker 1
+Produced 298
+Consumed 298 by worker 1
+Produced 299
+Consumed 299 by worker 1
+Produced 300
+Produced 301
+Produced 302
+Consumed 302 by worker 1
+Consumed 301 by worker 1
+Consumed 300 by worker 1
+Produced 303
+Consumed 303 by worker 1
+Produced 304
+Consumed 304 by worker 1
+Produced 305
+Produced 306
+Produced 307
+Consumed 307 by worker 1
+Consumed 306 by worker 1
+Consumed 305 by worker 1
+Produced 308
+Consumed 308 by worker 1
+Produced 309
+Consumed 309 by worker 1
+Produced 310
+Consumed 310 by worker 1
+Produced 311
+Produced 312
+Produced 313
+Produced 314
+Consumed 314 by worker 1
+Consumed 313 by worker 1
+Consumed 312 by worker 1
+Produced 315
+Consumed 315 by worker 1
+Consumed 311 by worker 1
+Produced 316
+Consumed 316 by worker 1
+Produced 317
+Consumed 317 by worker 1
+Produced 318
+Produced 319
+Consumed 319 by worker 1
+Consumed 318 by worker 1
+Produced 320
+Consumed 320 by worker 1
+Produced 321
+Consumed 321 by worker 1
+Produced 322
+Produced 323
+Produced 324
+Produced 325
+Consumed 325 by worker 1
+Consumed 324 by worker 1
+Consumed 323 by worker 1
+Consumed 322 by worker 1
+Produced 326
+Consumed 326 by worker 1
+Produced 327
+Produced 328
+Produced 329
+Produced 330
+Consumed 330 by worker 1
+Consumed 329 by worker 1
+Consumed 328 by worker 1
+Consumed 327 by worker 1
+Produced 331
+Produced 332
+Consumed 332 by worker 1
+Produced 333
+Consumed 333 by worker 1
+Consumed 331 by worker 1
+Produced 334
+Consumed 334 by worker 1
+Produced 335
+Consumed 335 by worker 1
+Produced 336
+Consumed 336 by worker 1
+Produced 337
+Consumed 337 by worker 1
+Produced 338
+Consumed 338 by worker 1
+Produced 339
+Produced 340
+Produced 341
+Produced 342
+Consumed 342 by worker 1
+Consumed 341 by worker 1
+Consumed 340 by worker 1
+Consumed 339 by worker 1
+Produced 343
+Consumed 343 by worker 1
+Produced 344
+Consumed 344 by worker 1
+Produced 345
+Produced 346
+Produced 347
+Produced 348
+Consumed 348 by worker 1
+Consumed 347 by worker 1
+Consumed 346 by worker 1
+Consumed 345 by worker 1
+Produced 349
+Consumed 349 by worker 1
+Produced 350
+Consumed 350 by worker 1
+Produced 351
+Consumed 351 by worker 1
+Produced 352
+Produced 353
+Produced 354
+Produced 355
+Consumed 355 by worker 1
+Consumed 354 by worker 1
+Consumed 353 by worker 1
+Produced 356
+Produced 357
+Produced 358
+Consumed 358 by worker 1
+Consumed 357 by worker 1
+Consumed 356 by worker 1
+Consumed 352 by worker 1
+Produced 359
+Consumed 359 by worker 1
+Produced 360
+Consumed 360 by worker 1
+Produced 361
+Consumed 361 by worker 1
+Produced 362
+Consumed 362 by worker 1
+Produced 363
+Consumed 363 by worker 1
+Produced 364
+Consumed 364 by worker 1
+Produced 365
+Consumed 365 by worker 1
+Produced 366
+Consumed 366 by worker 1
+Produced 367
+Consumed 367 by worker 1
+Produced 368
+Consumed 368 by worker 1
+Produced 369
+Consumed 369 by worker 1
+Produced 370
+Produced 371
+Produced 372
+Produced 373
+Consumed 373 by worker 1
+Consumed 372 by worker 1
+Produced 374
+Consumed 374 by worker 1
+Consumed 371 by worker 1
+Consumed 370 by worker 1
+Produced 375
+Produced 376
+Produced 377
+Produced 378
+Consumed 378 by worker 1
+Consumed 377 by worker 1
+Consumed 376 by worker 1
+Consumed 375 by worker 1
+Produced 379
+Consumed 379 by worker 1
+Produced 380
+Consumed 380 by worker 1
+Produced 381
+Produced 382
+Produced 383
+Consumed 383 by worker 1
+Consumed 382 by worker 1
+Consumed 381 by worker 1
+Produced 384
+Consumed 384 by worker 1
+Produced 385
+Consumed 385 by worker 1
+Produced 386
+Produced 387
+Produced 388
+Produced 389
+Consumed 389 by worker 1
+Consumed 388 by worker 1
+Consumed 387 by worker 1
+Consumed 386 by worker 1
+Produced 390
+Consumed 390 by worker 1
+Produced 391
+Consumed 391 by worker 1
+Produced 392
+Consumed 392 by worker 1
+Produced 393
+Consumed 393 by worker 1
+Produced 394
+Consumed 394 by worker 1
+Produced 395
+Consumed 395 by worker 1
+Produced 396
+Produced 397
+Produced 398
+Produced 399
+Consumed 399 by worker 1
+Consumed 398 by worker 1
+Produced 400
+Consumed 400 by worker 1
+Consumed 397 by worker 1
+Consumed 396 by worker 1
+Produced 401
+Consumed 401 by worker 1
+Produced 402
+Consumed 402 by worker 1
+Produced 403
+Consumed 403 by worker 1
+Produced 404
+Consumed 404 by worker 1
+Produced 405
+Produced 406
+Produced 407
+Consumed 407 by worker 1
+Consumed 406 by worker 1
+Consumed 405 by worker 1
+Produced 408
+Consumed 408 by worker 1
+Produced 409
+Consumed 409 by worker 1
+Produced 410
+Consumed 410 by worker 1
+Produced 411
+Consumed 411 by worker 1
+Produced 412
+Consumed 412 by worker 1
+Produced 413
+Produced 414
+Produced 415
+Produced 416
+Consumed 416 by worker 1
+Consumed 415 by worker 1
+Consumed 414 by worker 1
+Produced 417
+Produced 418
+Produced 419
+Consumed 419 by worker 1
+Consumed 418 by worker 1
+Consumed 417 by worker 1
+Consumed 413 by worker 1
+Produced 420
+Consumed 420 by worker 1
+Produced 421
+Consumed 421 by worker 1
+Produced 422
+Consumed 422 by worker 1
+Produced 423
+Consumed 423 by worker 1
+Produced 424
+Produced 425
+Produced 426
+Produced 427
+Consumed 427 by worker 1
+Consumed 426 by worker 1
+Produced 428
+Consumed 428 by worker 1
+Consumed 425 by worker 1
+Consumed 424 by worker 1
+Produced 429
+Produced 430
+Consumed 430 by worker 1
+Consumed 429 by worker 1
+Produced 431
+Consumed 431 by worker 1
+Produced 432
+Consumed 432 by worker 1
+Produced 433
+Produced 434
+Consumed 434 by worker 1
+Consumed 433 by worker 1
+Produced 435
+Consumed 435 by worker 1
+Produced 436
+Produced 437
+Produced 438
+Produced 439
+Consumed 439 by worker 1
+Produced 440
+Consumed 440 by worker 1
+Produced 441
+Consumed 441 by worker 1
+Consumed 438 by worker 1
+Produced 442
+Consumed 442 by worker 1
+Consumed 437 by worker 1
+Consumed 436 by worker 1
+Produced 443
+Consumed 443 by worker 1
+Produced 444
+Consumed 444 by worker 1
+Produced 445
+Produced 446
+Consumed 446 by worker 1
+Produced 447
+Produced 448
+Consumed 448 by worker 1
+Consumed 447 by worker 1
+Consumed 445 by worker 1
+Produced 449
+Consumed 449 by worker 1
+Produced 450
+Consumed 450 by worker 1
+Produced 451
+Consumed 451 by worker 1
+Produced 452
+Consumed 452 by worker 1
+Produced 453
+Consumed 453 by worker 1
+Produced 454
+Consumed 454 by worker 1
+Produced 455
+Consumed 455 by worker 1
+Produced 456
+Consumed 456 by worker 1
+Produced 457
+Produced 458
+Produced 459
+Consumed 459 by worker 1
+Consumed 458 by worker 1
+Consumed 457 by worker 1
+Produced 460
+Consumed 460 by worker 1
+Produced 461
+Consumed 461 by worker 1
+Produced 462
+Consumed 462 by worker 1
+Produced 463
+Produced 464
+Produced 465
+Produced 466
+Consumed 466 by worker 1
+Consumed 465 by worker 1
+Consumed 464 by worker 1
+Consumed 463 by worker 1
+Produced 467
+Consumed 467 by worker 1
+Produced 468
+Produced 469
+Consumed 469 by worker 1
+Consumed 468 by worker 1
+Produced 470
+Consumed 470 by worker 1
+Produced 471
+Consumed 471 by worker 1
+Produced 472
+Produced 473
+Produced 474
+Consumed 474 by worker 1
+Consumed 473 by worker 1
+Consumed 472 by worker 1
+Produced 475
+Consumed 475 by worker 1
+Produced 476
+Consumed 476 by worker 1
+Produced 477
+Consumed 477 by worker 1
+Produced 478
+Consumed 478 by worker 1
+Produced 479
+Consumed 479 by worker 1
+Produced 480
+Produced 481
+Produced 482
+Produced 483
+Consumed 483 by worker 1
+Consumed 482 by worker 1
+Consumed 481 by worker 1
+Consumed 480 by worker 1
+Produced 484
+Produced 485
+Produced 486
+Produced 487
+Consumed 487 by worker 1
+Consumed 486 by worker 1
+Consumed 485 by worker 1
+Consumed 484 by worker 1
+Produced 488
+Consumed 488 by worker 1
+Produced 489
+Consumed 489 by worker 1
+Produced 490
+Produced 491
+Consumed 491 by worker 1
+Consumed 490 by worker 1
+Produced 492
+Consumed 492 by worker 1
+Produced 493
+Consumed 493 by worker 1
+Produced 494
+Produced 495
+Produced 496
+Produced 497
+Consumed 497 by worker 1
+Consumed 496 by worker 1
+Consumed 495 by worker 1
+Consumed 494 by worker 1
+Produced 498
+Consumed 498 by worker 1
+Produced 499
+Produced 500
+Produced 501
+Consumed 501 by worker 1
+Consumed 500 by worker 1
+Consumed 499 by worker 1
+Produced 502
+Consumed 502 by worker 1
+Produced 503
+Consumed 503 by worker 1
+Produced 504
+Consumed 504 by worker 1
+Produced 505
+Consumed 505 by worker 1
+Produced 506
+Consumed 506 by worker 1
+Produced 507
+Consumed 507 by worker 1
+Produced 508
+Consumed 508 by worker 1
+Produced 509
+Consumed 509 by worker 1
+Produced 510
+Consumed 510 by worker 1
+Produced 511
+Consumed 511 by worker 1
+Produced 512
+Consumed 512 by worker 1
+Produced 513
+Produced 514
+Produced 515
+Produced 516
+Consumed 516 by worker 1
+Consumed 515 by worker 1
+Consumed 514 by worker 1
+Consumed 513 by worker 1
+Produced 517
+Consumed 517 by worker 1
+Produced 518
+Consumed 518 by worker 1
+Produced 519
+Consumed 519 by worker 1
+Produced 520
+Consumed 520 by worker 1
+Produced 521
+Produced 522
+Produced 523
+Produced 524
+Consumed 524 by worker 1
+Consumed 523 by worker 1
+Consumed 522 by worker 1
+Produced 525
+Consumed 525 by worker 1
+Consumed 521 by worker 1
+Produced 526
+Consumed 526 by worker 1
+Produced 527
+Consumed 527 by worker 1
+Produced 528
+Produced 529
+Produced 530
+Produced 531
+Consumed 531 by worker 1
+Consumed 530 by worker 1
+Consumed 529 by worker 1
+Consumed 528 by worker 1
+Produced 532
+Consumed 532 by worker 1
+Produced 533
+Consumed 533 by worker 1
+Produced 534
+Produced 535
+Consumed 535 by worker 1
+Consumed 534 by worker 1
+Produced 536
+Consumed 536 by worker 1
+Produced 537
+Produced 538
+Consumed 538 by worker 1
+Consumed 537 by worker 1
+Produced 539
+Consumed 539 by worker 1
+Produced 540
+Produced 541
+Produced 542
+Produced 543
+Consumed 543 by worker 1
+Consumed 542 by worker 1
+Consumed 541 by worker 1
+Consumed 540 by worker 1
+Produced 544
+Produced 545
+Consumed 545 by worker 1
+Consumed 544 by worker 1
+Produced 546
+Produced 547
+Consumed 547 by worker 0
+Produced 548
+Produced 549
+Produced 550
+Consumed 550 by worker 1
+Consumed 549 by worker 1
+Consumed 548 by worker 1
+Consumed 546 by worker 1
+Produced 551
+Produced 552
+Produced 553
+Produced 554
+Consumed 554 by worker 1
+Consumed 553 by worker 1
+Consumed 552 by worker 1
+Consumed 551 by worker 1
+Produced 555
+Consumed 555 by worker 1
+Produced 556
+Consumed 556 by worker 1
+Produced 557
+Produced 558
+Produced 559
+Consumed 559 by worker 1
+Consumed 558 by worker 1
+Consumed 557 by worker 1
+Produced 560
+Consumed 560 by worker 1
+Produced 561
+Consumed 561 by worker 1
+Produced 562
+Produced 563
+Produced 564
+Produced 565
+Consumed 565 by worker 1
+Consumed 564 by worker 1
+Consumed 563 by worker 1
+Consumed 562 by worker 1
+Produced 566
+Produced 567
+Produced 568
+Produced 569
+Consumed 569 by worker 1
+Consumed 568 by worker 1
+Consumed 567 by worker 1
+Consumed 566 by worker 1
+Produced 570
+Consumed 570 by worker 1
+Produced 571
+Consumed 571 by worker 1
+Produced 572
+Consumed 572 by worker 1
+Produced 573
+Consumed 573 by worker 1
+Produced 574
+Consumed 574 by worker 1
+Produced 575
+Consumed 575 by worker 1
+Produced 576
+Consumed 576 by worker 1
+Produced 577
+Produced 578
+Produced 579
+Produced 580
+Consumed 580 by worker 1
+Consumed 579 by worker 1
+Consumed 578 by worker 1
+Consumed 577 by worker 1
+Produced 581
+Consumed 581 by worker 1
+Produced 582
+Consumed 582 by worker 1
+Produced 583
+Produced 584
+Produced 585
+Produced 586
+Consumed 586 by worker 1
+Consumed 585 by worker 1
+Consumed 584 by worker 1
+Consumed 583 by worker 1
+Produced 587
+Consumed 587 by worker 1
+Produced 588
+Produced 589
+Consumed 589 by worker 1
+Consumed 588 by worker 1
+Produced 590
+Consumed 590 by worker 1
+Produced 591
+Consumed 591 by worker 1
+Produced 592
+Produced 593
+Consumed 593 by worker 1
+Consumed 592 by worker 1
+Produced 594
+Consumed 594 by worker 1
+Produced 595
+Produced 596
+Consumed 596 by worker 1
+Consumed 595 by worker 1
+Produced 597
+Consumed 597 by worker 1
+Produced 598
+Consumed 598 by worker 1
+Produced 599
+Produced 600
+Produced 601
+Produced 602
+Consumed 602 by worker 1
+Consumed 601 by worker 1
+Produced 603
+Produced 604
+Consumed 604 by worker 1
+Consumed 603 by worker 1
+Consumed 600 by worker 1
+Consumed 599 by worker 1
+Produced 605
+Consumed 605 by worker 1
+Produced 606
+Consumed 606 by worker 1
+Produced 607
+Produced 608
+Produced 609
+Consumed 609 by worker 1
+Consumed 608 by worker 1
+Consumed 607 by worker 1
+Produced 610
+Consumed 610 by worker 1
+Produced 611
+Consumed 611 by worker 1
+Produced 612
+Consumed 612 by worker 1
+Produced 613
+Consumed 613 by worker 1
+Produced 614
+Consumed 614 by worker 1
+Produced 615
+Consumed 615 by worker 1
+Produced 616
+Consumed 616 by worker 1
+Produced 617
+Produced 618
+Produced 619
+Produced 620
+Consumed 620 by worker 1
+Consumed 619 by worker 1
+Consumed 618 by worker 1
+Consumed 617 by worker 1
+Produced 621
+Consumed 621 by worker 1
+Produced 622
+Consumed 622 by worker 1
+Produced 623
+Consumed 623 by worker 1
+Produced 624
+Produced 625
+Produced 626
+Produced 627
+Consumed 627 by worker 1
+Consumed 626 by worker 1
+Consumed 625 by worker 1
+Produced 628
+Consumed 628 by worker 1
+Consumed 624 by worker 1
+Produced 629
+Consumed 629 by worker 1
+Produced 630
+Produced 631
+Produced 632
+Produced 633
+Consumed 633 by worker 1
+Consumed 632 by worker 1
+Consumed 631 by worker 1
+Consumed 630 by worker 1
+Produced 634
+Consumed 634 by worker 1
+Produced 635
+Produced 636
+Produced 637
+Produced 638
+Consumed 638 by worker 1
+Consumed 637 by worker 1
+Consumed 636 by worker 1
+Consumed 635 by worker 1
+Produced 639
+Consumed 639 by worker 1
+Produced 640
+Consumed 640 by worker 1
+Produced 641
+Produced 642
+Produced 643
+Consumed 643 by worker 1
+Consumed 642 by worker 1
+Consumed 641 by worker 1
+Produced 644
+Consumed 644 by worker 1
+Produced 645
+Consumed 645 by worker 1
+Produced 646
+Consumed 646 by worker 1
+Produced 647
+Consumed 647 by worker 1
+Produced 648
+Consumed 648 by worker 1
+Produced 649
+Consumed 649 by worker 1
+Produced 650
+Consumed 650 by worker 1
+Produced 651
+Consumed 651 by worker 1
+Produced 652
+Consumed 652 by worker 1
+Produced 653
+Produced 654
+Consumed 654 by worker 0
+Produced 655
+Produced 656
+Produced 657
+Consumed 657 by worker 1
+Consumed 656 by worker 1
+Consumed 655 by worker 1
+Consumed 653 by worker 1
+Produced 658
+Consumed 658 by worker 1
+Produced 659
+Consumed 659 by worker 1
+Produced 660
+Consumed 660 by worker 1
+Produced 661
+Consumed 661 by worker 1
+Produced 662
+Consumed 662 by worker 1
+Produced 663
+Produced 664
+Produced 665
+Consumed 665 by worker 1
+Consumed 664 by worker 1
+Consumed 663 by worker 1
+Produced 666
+Consumed 666 by worker 1
+Produced 667
+Consumed 667 by worker 1
+Produced 668
+Consumed 668 by worker 1
+Produced 669
+Consumed 669 by worker 1
+Produced 670
+Consumed 670 by worker 1
+Produced 671
+Produced 672
+Consumed 672 by worker 1
+Consumed 671 by worker 1
+Produced 673
+Consumed 673 by worker 1
+Produced 674
+Produced 675
+Consumed 675 by worker 1
+Consumed 674 by worker 1
+Produced 676
+Produced 677
+Consumed 677 by worker 1
+Consumed 676 by worker 1
+Produced 678
+Consumed 678 by worker 1
+Produced 679
+Consumed 679 by worker 1
+Produced 680
+Consumed 680 by worker 1
+Produced 681
+Consumed 681 by worker 1
+Produced 682
+Consumed 682 by worker 1
+Produced 683
+Consumed 683 by worker 1
+Produced 684
+Consumed 684 by worker 1
+Produced 685
+Produced 686
+Produced 687
+Produced 688
+Consumed 688 by worker 1
+Consumed 687 by worker 1
+Consumed 686 by worker 1
+Consumed 685 by worker 1
+Produced 689
+Consumed 689 by worker 1
+Produced 690
+Consumed 690 by worker 1
+Produced 691
+Consumed 691 by worker 1
+Produced 692
+Produced 693
+Produced 694
+Produced 695
+Consumed 695 by worker 1
+Consumed 694 by worker 1
+Produced 696
+Consumed 696 by worker 1
+Produced 697
+Consumed 697 by worker 1
+Produced 698
+Consumed 698 by worker 1
+Consumed 693 by worker 1
+Consumed 692 by worker 1
+Produced 699
+Produced 700
+Consumed 700 by worker 0
+Consumed 699 by worker 0
+Produced 701
+Produced 702
+Produced 703
+Produced 704
+Consumed 704 by worker 1
+Consumed 703 by worker 1
+Consumed 702 by worker 1
+Produced 705
+Consumed 705 by worker 1
+Consumed 701 by worker 1
+Produced 706
+Consumed 706 by worker 1
+Produced 707
+Consumed 707 by worker 1
+Produced 708
+Produced 709
+Produced 710
+Produced 711
+Consumed 711 by worker 1
+Consumed 710 by worker 1
+Consumed 709 by worker 1
+Consumed 708 by worker 1
+Produced 712
+Consumed 712 by worker 1
+Produced 713
+Consumed 713 by worker 1
+Produced 714
+Consumed 714 by worker 1
+Produced 715
+Consumed 715 by worker 1
+Produced 716
+Consumed 716 by worker 1
+Produced 717
+Produced 718
+Produced 719
+Produced 720
+Consumed 720 by worker 1
+Consumed 719 by worker 1
+Consumed 718 by worker 1
+Produced 721
+Consumed 721 by worker 1
+Produced 722
+Consumed 722 by worker 1
+Produced 723
+Consumed 723 by worker 1
+Produced 724
+Consumed 724 by worker 1
+Produced 725
+Consumed 725 by worker 1
+Produced 726
+Produced 727
+Produced 728
+Consumed 728 by worker 1
+Consumed 727 by worker 1
+Consumed 726 by worker 1
+Produced 729
+Consumed 729 by worker 1
+Produced 730
+Consumed 730 by worker 1
+Produced 731
+Consumed 731 by worker 1
+Produced 732
+Consumed 732 by worker 1
+Produced 733
+Consumed 733 by worker 1
+Produced 734
+Consumed 734 by worker 1
+Produced 735
+Consumed 735 by worker 1
+Produced 736
+Consumed 736 by worker 1
+Produced 737
+Consumed 737 by worker 1
+Produced 738
+Consumed 738 by worker 1
+Produced 739
+Consumed 739 by worker 1
+Produced 740
+Consumed 740 by worker 1
+Produced 741
+Consumed 741 by worker 1
+Produced 742
+Consumed 742 by worker 1
+Produced 743
+Consumed 743 by worker 1
+Consumed 717 by worker 1
+Produced 744
+Consumed 744 by worker 1
+Produced 745
+Produced 746
+Produced 747
+Produced 748
+Consumed 748 by worker 1
+Consumed 747 by worker 1
+Consumed 746 by worker 1
+Consumed 745 by worker 1
+Produced 749
+Consumed 749 by worker 1
+Produced 750
+Consumed 750 by worker 1
+Produced 751
+Consumed 751 by worker 1
+Produced 752
+Consumed 752 by worker 1
+Produced 753
+Produced 754
+Produced 755
+Produced 756
+Consumed 756 by worker 1
+Consumed 755 by worker 1
+Consumed 754 by worker 1
+Consumed 753 by worker 1
+Produced 757
+Consumed 757 by worker 1
+Produced 758
+Consumed 758 by worker 1
+Produced 759
+Consumed 759 by worker 1
+Produced 760
+Produced 761
+Produced 762
+Produced 763
+Consumed 763 by worker 1
+Produced 764
+Consumed 764 by worker 1
+Produced 765
+Consumed 765 by worker 1
+Consumed 762 by worker 1
+Produced 766
+Consumed 766 by worker 1
+Consumed 761 by worker 1
+Consumed 760 by worker 1
+Produced 767
+Consumed 767 by worker 1
+Produced 768
+Consumed 768 by worker 1
+Produced 769
+Produced 770
+Produced 771
+Produced 772
+Consumed 772 by worker 1
+Consumed 771 by worker 1
+Consumed 770 by worker 1
+Produced 773
+Consumed 773 by worker 1
+Consumed 769 by worker 1
+Produced 774
+Consumed 774 by worker 1
+Produced 775
+Consumed 775 by worker 1
+Produced 776
+Produced 777
+Produced 778
+Produced 779
+Consumed 779 by worker 1
+Consumed 778 by worker 1
+Consumed 777 by worker 1
+Consumed 776 by worker 1
+Produced 780
+Consumed 780 by worker 1
+Produced 781
+Produced 782
+Produced 783
+Produced 784
+Consumed 784 by worker 1
+Consumed 783 by worker 1
+Consumed 782 by worker 1
+Consumed 781 by worker 1
+Produced 785
+Produced 786
+Produced 787
+Produced 788
+Consumed 788 by worker 1
+Consumed 787 by worker 1
+Consumed 786 by worker 1
+Produced 789
+Consumed 789 by worker 1
+Produced 790
+Produced 791
+Produced 792
+Consumed 792 by worker 1
+Consumed 791 by worker 1
+Consumed 790 by worker 1
+Produced 793
+Produced 794
+Produced 795
+Consumed 795 by worker 1
+Consumed 794 by worker 1
+Consumed 793 by worker 1
+Produced 796
+Produced 797
+Produced 798
+Consumed 798 by worker 1
+Consumed 797 by worker 1
+Consumed 796 by worker 1
+Produced 799
+Consumed 799 by worker 1
+Produced 800
+Consumed 800 by worker 1
+Consumed 785 by worker 1
+Produced 801
+Consumed 801 by worker 1
+Produced 802
+Consumed 802 by worker 1
+Produced 803
+Consumed 803 by worker 1
+Produced 804
+Produced 805
+Produced 806
+Produced 807
+Consumed 807 by worker 1
+Consumed 806 by worker 1
+Consumed 805 by worker 1
+Produced 808
+Consumed 808 by worker 1
+Produced 809
+Consumed 809 by worker 1
+Produced 810
+Produced 811
+Produced 812
+Consumed 812 by worker 1
+Consumed 811 by worker 1
+Consumed 810 by worker 1
+Produced 813
+Produced 814
+Produced 815
+Consumed 815 by worker 1
+Consumed 814 by worker 1
+Consumed 813 by worker 1
+Consumed 804 by worker 1
+Produced 816
+Consumed 816 by worker 1
+Produced 817
+Produced 818
+Produced 819
+Produced 820
+Consumed 820 by worker 1
+Consumed 819 by worker 1
+Consumed 818 by worker 1
+Consumed 817 by worker 1
+Produced 821
+Consumed 821 by worker 1
+Produced 822
+Produced 823
+Consumed 823 by worker 1
+Consumed 822 by worker 1
+Produced 824
+Consumed 824 by worker 1
+Produced 825
+Consumed 825 by worker 1
+Produced 826
+Consumed 826 by worker 1
+Produced 827
+Produced 828
+Produced 829
+Produced 830
+Consumed 830 by worker 1
+Consumed 829 by worker 1
+Consumed 828 by worker 1
+Produced 831
+Consumed 831 by worker 1
+Produced 832
+Produced 833
+Produced 834
+Consumed 834 by worker 1
+Consumed 833 by worker 1
+Consumed 832 by worker 1
+Produced 835
+Produced 836
+Produced 837
+Consumed 837 by worker 1
+Consumed 836 by worker 1
+Consumed 835 by worker 1
+Produced 838
+Consumed 838 by worker 1
+Produced 839
+Consumed 839 by worker 1
+Produced 840
+Consumed 840 by worker 1
+Consumed 827 by worker 1
+Produced 841
+Consumed 841 by worker 1
+Produced 842
+Consumed 842 by worker 1
+Produced 843
+Consumed 843 by worker 1
+Produced 844
+Consumed 844 by worker 1
+Produced 845
+Consumed 845 by worker 1
+Produced 846
+Consumed 846 by worker 1
+Produced 847
+Consumed 847 by worker 1
+Produced 848
+Consumed 848 by worker 1
+Produced 849
+Consumed 849 by worker 1
+Produced 850
+Produced 851
+Produced 852
+Produced 853
+Consumed 853 by worker 1
+Consumed 852 by worker 1
+Produced 854
+Consumed 854 by worker 1
+Produced 855
+Produced 856
+Consumed 856 by worker 1
+Consumed 855 by worker 1
+Consumed 851 by worker 1
+Consumed 850 by worker 1
+Produced 857
+Produced 858
+Produced 859
+Produced 860
+Consumed 860 by worker 1
+Consumed 859 by worker 1
+Consumed 858 by worker 1
+Produced 861
+Consumed 861 by worker 1
+Produced 862
+Consumed 862 by worker 1
+Produced 863
+Consumed 863 by worker 1
+Produced 864
+Consumed 864 by worker 1
+Produced 865
+Consumed 865 by worker 1
+Produced 866
+Consumed 866 by worker 1
+Produced 867
+Consumed 867 by worker 1
+Produced 868
+Consumed 868 by worker 1
+Consumed 857 by worker 1
+Produced 869
+Consumed 869 by worker 1
+Produced 870
+Produced 871
+Produced 872
+Produced 873
+Consumed 873 by worker 1
+Consumed 872 by worker 1
+Consumed 871 by worker 1
+Produced 874
+Consumed 874 by worker 1
+Produced 875
+Produced 876
+Produced 877
+Consumed 877 by worker 1
+Consumed 876 by worker 1
+Consumed 875 by worker 1
+Produced 878
+Produced 879
+Produced 880
+Consumed 880 by worker 1
+Consumed 879 by worker 1
+Consumed 878 by worker 1
+Produced 881
+Consumed 881 by worker 1
+Produced 882
+Consumed 882 by worker 1
+Produced 883
+Consumed 883 by worker 1
+Produced 884
+Consumed 884 by worker 1
+Produced 885
+Consumed 885 by worker 1
+Consumed 870 by worker 1
+Produced 886
+Produced 887
+Produced 888
+Produced 889
+Consumed 889 by worker 1
+Consumed 888 by worker 1
+Consumed 887 by worker 1
+Consumed 886 by worker 1
+Produced 890
+Consumed 890 by worker 1
+Produced 891
+Produced 892
+Produced 893
+Produced 894
+Consumed 894 by worker 1
+Consumed 893 by worker 1
+Consumed 892 by worker 1
+Produced 895
+Produced 896
+Produced 897
+Consumed 897 by worker 1
+Consumed 896 by worker 1
+Produced 898
+Produced 899
+Consumed 899 by worker 1
+Consumed 898 by worker 1
+Consumed 895 by worker 1
+Produced 900
+Produced 901
+Produced 902
+Consumed 902 by worker 1
+Consumed 901 by worker 1
+Consumed 900 by worker 1
+Produced 903
+Consumed 903 by worker 1
+Produced 904
+Consumed 904 by worker 1
+Produced 905
+Produced 906
+Produced 907
+Consumed 907 by worker 1
+Consumed 906 by worker 1
+Consumed 905 by worker 1
+Produced 908
+Consumed 908 by worker 1
+Produced 909
+Consumed 909 by worker 1
+Produced 910
+Consumed 910 by worker 1
+Produced 911
+Consumed 911 by worker 1
+Produced 912
+Produced 913
+Produced 914
+Consumed 914 by worker 1
+Consumed 913 by worker 1
+Consumed 912 by worker 1
+Produced 915
+Consumed 915 by worker 1
+Produced 916
+Consumed 916 by worker 1
+Consumed 891 by worker 1
+Produced 917
+Consumed 917 by worker 1
+Produced 918
+Produced 919
+Produced 920
+Produced 921
+Consumed 921 by worker 1
+Consumed 920 by worker 1
+Consumed 919 by worker 1
+Consumed 918 by worker 1
+Produced 922
+Consumed 922 by worker 1
+Produced 923
+Consumed 923 by worker 1
+Produced 924
+Consumed 924 by worker 1
+Produced 925
+Consumed 925 by worker 1
+Produced 926
+Consumed 926 by worker 1
+Produced 927
+Consumed 927 by worker 1
+Produced 928
+Consumed 928 by worker 1
+Produced 929
+Consumed 929 by worker 1
+Produced 930
+Consumed 930 by worker 1
+Produced 931
+Consumed 931 by worker 1
+Produced 932
+Produced 933
+Produced 934
+Produced 935
+Consumed 935 by worker 1
+Consumed 934 by worker 1
+Consumed 933 by worker 1
+Consumed 932 by worker 1
+Produced 936
+Produced 937
+Produced 938
+Produced 939
+Consumed 939 by worker 1
+Consumed 938 by worker 1
+Consumed 937 by worker 1
+Produced 940
+Consumed 940 by worker 1
+Produced 941
+Consumed 941 by worker 1
+Produced 942
+Consumed 942 by worker 1
+Produced 943
+Consumed 943 by worker 1
+Produced 944
+Consumed 944 by worker 1
+Produced 945
+Consumed 945 by worker 1
+Produced 946
+Consumed 946 by worker 1
+Produced 947
+Consumed 947 by worker 1
+Consumed 936 by worker 1
+Produced 948
+Produced 949
+Produced 950
+Produced 951
+Consumed 951 by worker 1
+Consumed 950 by worker 1
+Produced 952
+Produced 953
+Consumed 953 by worker 1
+Consumed 952 by worker 1
+Consumed 949 by worker 1
+Produced 954
+Produced 955
+Produced 956
+Consumed 956 by worker 1
+Consumed 955 by worker 1
+Consumed 954 by worker 1
+Produced 957
+Produced 958
+Produced 959
+Consumed 959 by worker 1
+Consumed 958 by worker 1
+Consumed 957 by worker 1
+Produced 960
+Produced 961
+Produced 962
+Consumed 962 by worker 1
+Consumed 961 by worker 1
+Consumed 960 by worker 1
+Produced 963
+Consumed 963 by worker 1
+Produced 964
+Consumed 964 by worker 1
+Produced 965
+Consumed 965 by worker 1
+Produced 966
+Consumed 966 by worker 1
+Produced 967
+Consumed 967 by worker 1
+Produced 968
+Produced 969
+Produced 970
+Consumed 970 by worker 1
+Consumed 969 by worker 1
+Consumed 968 by worker 1
+Produced 971
+Consumed 971 by worker 1
+Produced 972
+Consumed 972 by worker 1
+Produced 973
+Consumed 973 by worker 1
+Produced 974
+Consumed 974 by worker 1
+Produced 975
+Consumed 975 by worker 1
+Produced 976
+Consumed 976 by worker 1
+Consumed 948 by worker 1
+Produced 977
+Consumed 977 by worker 1
+Produced 978
+Produced 979
+Produced 980
+Consumed 980 by worker 1
+Consumed 979 by worker 1
+Consumed 978 by worker 1
+Produced 981
+Produced 982
+Produced 983
+Produced 984
+Consumed 984 by worker 1
+Consumed 983 by worker 1
+Consumed 982 by worker 1
+Produced 985
+Consumed 985 by worker 1
+Produced 986
+Consumed 986 by worker 1
+Produced 987
+Produced 988
+Produced 989
+Consumed 989 by worker 1
+Consumed 988 by worker 1
+Consumed 987 by worker 1
+Produced 990
+Consumed 990 by worker 1
+Produced 991
+Produced 992
+Produced 993
+Consumed 993 by worker 1
+Consumed 992 by worker 1
+Consumed 991 by worker 1
+Produced 994
+Consumed 994 by worker 1
+Produced 995
+Produced 996
+Produced 997
+Consumed 997 by worker 1
+Consumed 996 by worker 1
+Consumed 995 by worker 1
+Produced 998
+Produced 999
+Consumed 999 by worker 1
+Consumed 998 by worker 1
+Consumed 981 by worker 1
 master joined
