@@ -1,0 +1,14 @@
+printDiskStats: total blocks=1000, free blocks=401, total inodes=200, free inodes=180
+printBufferCacheStats: total buffers=30, valid=30
+printFileTableStats: total slots=100, occupied=1, max inode=19
+printFDStats: totalFD=16 used=3
+opened file
+printDiskStats: total blocks=1000, free blocks=401, total inodes=200, free inodes=179
+printBufferCacheStats: total buffers=30, valid=30
+printFileTableStats: total slots=100, occupied=2, max inode=20
+printFDStats: totalFD=16 used=4
+wrote 1000 bytes to file
+printDiskStats: total blocks=1000, free blocks=399, total inodes=200, free inodes=179
+printBufferCacheStats: total buffers=30, valid=30
+printFileTableStats: total slots=100, occupied=2, max inode=20
+printFDStats: totalFD=16 used=4
